@@ -19,6 +19,8 @@
   "homepage": "https://github.com/peter135/nodejs#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.12.4"
+    "express": "^4.12.4",
+    "node-readability": "^3.0.0",
+    "sqlite3": "^4.0.2"
   }
 }
